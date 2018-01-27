@@ -1,0 +1,15 @@
+{
+  "name": "ethereum_dapp_tutorial",
+  "version": "1.0.0",
+  "description": "http://xichen.pub/2018/01/26/2018-01-25-Ethereum-Dapp-Tutorial-Part-1/",
+  "main": "index.js",
+  "dependencies": {
+    "ethereumjs-testrpc": "^3.0.3",
+    "solc": "^0.4.19",
+    "web3": "^0.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node_modules/.bin/testrpc"
+  }
+}
